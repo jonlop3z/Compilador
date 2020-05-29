@@ -1,0 +1,9 @@
+C:\Users\jhon\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\jhon\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\jhon\source\repos\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\jhon\source\repos\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\jhon\source\repos\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\jhon\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\jhon\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\jhon\source\repos\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\jhon\source\repos\Compilador\Compilador\obj\Debug\Compilador.pdb
